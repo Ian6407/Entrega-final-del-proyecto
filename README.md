@@ -7,7 +7,7 @@
 
 ## Integrantes
 - Ian Tomás Felipe Fonseca Coronado
-- Andrés Raba
+- Andrés Mauricio Raba Bolaños
 - Jorge Esteban Gómez Zuluaga
 - Daniel Galvis
 
